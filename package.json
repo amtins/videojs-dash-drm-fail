@@ -1,0 +1,26 @@
+{
+  "name": "videojs-dash-drm-fail",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amtins/videojs-dash-drm-fail.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amtins/videojs-dash-drm-fail/issues"
+  },
+  "homepage": "https://github.com/amtins/videojs-dash-drm-fail#readme",
+  "dependencies": {
+    "@videojs/http-streaming": "^1.2.4",
+    "dashjs": "^2.9.0",
+    "hls.js": "^0.11.0",
+    "video.js": "^7.2.2",
+    "videojs-contrib-eme": "^3.3.0"
+  }
+}
